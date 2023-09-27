@@ -52,7 +52,7 @@ pyproj
 | 한규동                                          | 김성원                                           | 김신우                                         | 류민승                                         |
 | ----------------------------------------------- | ------------------------------------------------ | ---------------------------------------------- | ---------------------------------------------- |
 | <img title="" src="./sample_img/gyudong.jpeg" > | <img title=" " src="./sample_img/seongwon.png">  | <img title=" " src="./sample_img/sinwoo.png" > | <img title=" " src="./sample_img/min.jpeg">    |
-| [@Gyudong][ https://github.com/GyudongHan]      | [@dataseongwon][https://github.com/dataseongwon] | [@sin09135][https://github.com/sin09135]       | [@minseungryu][https://github.com/minseungryu] |
+| [@Gyudong](https://github.com/GyudongHan)     | [@dataseongwon](https://github.com/dataseongwon) | [@sin09135](https://github.com/sin09135)       | [@minseungryu](https://github.com/minseungryu) |
 
 <br>
 </br>
